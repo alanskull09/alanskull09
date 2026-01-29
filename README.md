@@ -1,110 +1,89 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+  <img src="https://i.imgur.com/8Km9tLL.png" width="160" alt="programmer cartoon"/>
 </p>
 
-<h3 align="center">🧪 Alan López</h3>
-<p align="center"><sub>QA Engineer · Test Automation · Software Quality Advocate</sub></p>
-
----
-
+<h2 align="center">🧪 Alan López</h2>
 <p align="center">
-<sub>
-Computer Science student at UNAM, close to graduating.  
-Focused on software testing, automation, and building confidence in products through quality.
-</sub>
+<strong>QA Engineer · Test Automation · Software Quality Advocate</strong>
 </p>
 
 ---
 
-### 🧠 About Me
+### 💫 About Me
 
-<sub>
-I’m a QA-focused engineer with a strong interest in test automation and quality-driven development.  
-I enjoy breaking systems on purpose, automating checks, and working closely with developers to deliver reliable software.
-</sub>
+I’m a Computer Science student at UNAM, close to graduating, with a strong focus on  
+<strong>software testing, test automation, and quality assurance</strong>.
 
-> <sub><i>"Testing is not about finding bugs — it's about building confidence."</i></sub>
-
----
-
-### 🎯 QA Focus
-
-<table>
-<tr>
-<td><sub>✔️ Test case design & execution</sub></td>
-<td><sub>✔️ Automated regression testing</sub></td>
-</tr>
-<tr>
-<td><sub>✔️ Bug reporting & analysis</sub></td>
-<td><sub>✔️ CI/CD test integration</sub></td>
-</tr>
-<tr>
-<td><sub>✔️ Cross-browser testing</sub></td>
-<td><sub>✔️ Quality-driven mindset</sub></td>
-</tr>
-</table>
+I enjoy breaking systems on purpose, automating quality checks, and helping teams ship
+<strong>reliable, maintainable, and well-tested software</strong>.
 
 ---
 
-### 🧪 Automation & Testing
+### 🎯 QA Mindset
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,cypress,appium,python,javascript,sql" />
-</p>
+- QA-oriented mindset with a strong automation focus  
+- Test automation for web applications, APIs, and systems  
+- Passionate about software quality and reliability  
+- Experience collaborating closely with developers and product teams  
+- Comfortable working in Linux environments  
+- Exploring Cloud, CI/CD, and DevOps applied to QA  
 
-<p align="center">
-<sub>
-Web · API · System-level testing
-</sub>
-</p>
+> *“Testing is not about finding bugs — it’s about building confidence.”*
+
+---
+
+### 🔍 QA & Testing Focus
+
+✔️ Test case design and execution  
+✔️ Automated regression testing  
+✔️ Bug reporting and root-cause analysis  
+✔️ CI/CD test integration  
+✔️ Cross-browser and cross-platform testing  
+✔️ Quality-driven development mindset  
+
+---
+
+### 🧰 Testing & Automation Stack
+
+<strong>Automation Frameworks</strong>  
+Selenium · Cypress · Appium  
+
+<strong>Languages for Testing</strong>  
+Python · JavaScript · SQL  
 
 ---
 
 ### ⚙️ Tools & Environments
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,github,jira" />
-</p>
+<strong>CI/CD & DevOps</strong>  
+GitHub Actions · Docker · Kubernetes  
+
+<strong>Systems & Collaboration</strong>  
+Linux · Git · Jira  
 
 ---
 
 ### 💼 Experience
 
-**IT Intern – Office Depot**
+<strong>IT Intern – Office Depot</strong>
 
-<sub>
-• Automated and validated internal systems  
-• Frontend & backend testing support  
-• API testing and data validation  
-• Collaboration with developers to improve quality  
-• Regression and bug analysis  
-</sub>
+- Automated and validated internal systems  
+- Supported frontend and backend testing efforts  
+- API testing and data validation  
+- Collaborated with developers to improve software quality  
+- Assisted in identifying bugs and regression issues  
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123porAlan&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123porAlan&layout=compact" height="150"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=123porAlan&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123porAlan&layout=compact" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-<sub>Focused on quality, automation, and continuous improvement.</sub>
+<strong>Focused on quality, automation, and continuous improvement.</strong>
 </p>
-
