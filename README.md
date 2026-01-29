@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="220" alt="Rick and Morty coding"/>
+  <img src="https://media.tenor.com/5f1n0cE9frUAAAAd/rick-and-morty-laptop.gif" width="220" alt="Morty mirando laptop — Rick and Morty"/>
 </p>
 
 <h2 align="center">🧪 Alan López</h2>
