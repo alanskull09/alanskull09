@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://media.tenor.com/5f1n0cE9frUAAAAd/rick-and-morty-laptop.gif" width="220" alt="Morty mirando laptop — Rick and Morty"/>
+  <img 
+    src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" 
+    width="260" 
+    alt="Rick Sanchez programming in the garage"/>
 </p>
+
 
 <h2 align="center">🧪 Alan López</h2>
 
