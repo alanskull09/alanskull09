@@ -1,25 +1,110 @@
-# 💫 About Me:
-# 🧪 Hi, I'm Alan López<br><br>### QA Engineer | Test Automation | Software Quality Advocate<br><br>I'm a **Computer Science student at UNAM**, close to graduating, focused on **software testing and test automation**.  <br>I enjoy breaking things (on purpose), automating quality checks, and helping teams ship **reliable, maintainable software**.<br><br>---<br><br>## 🎯 About Me<br><br>- 🧪 QA-oriented mindset with strong automation focus  <br>- 🤖 Test Automation for **Web, APIs, and Systems**<br>- 🐞 Passionate about **software quality and reliability**<br>- ⚙️ Experience collaborating with developers and product teams<br>- 🐧 Comfortable working in **Linux environments**<br>- ☁️ Exploring **Cloud, CI/CD, and DevOps for QA**<br><br>> *"Testing is not about finding bugs — it's about building confidence."*<br><br>---<br><br>## 🔍 QA & Testing Focus<br><br>- ✔️ Test case design & execution  <br>- ✔️ Automated regression testing  <br>- ✔️ Bug reporting & analysis  <br>- ✔️ CI/CD test integration  <br>- ✔️ Cross-browser & cross-platform testing  <br>- ✔️ Quality-driven development mindset  <br><br>---<br><br>## 🧰 Testing & Automation Stack<br><br>### 🧪 Automation Frameworks<br>![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)<br>![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)<br>![Appium](https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)<br><br>### 🧠 Languages Used for Testing<br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=database&logoColor=white)<br><br>---<br><br>## ⚙️ Tools & Environments<br><br>### 🚀 CI/CD & DevOps<br>![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)<br>![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)<br><br>### 🖥️ Systems & Collaboration<br>![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)<br>![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)<br><br>---<br><br>## 💼 Experience<br><br>### 🏢 IT Intern – Office Depot<br>- Automated and validated internal systems  <br>- Supported **frontend and backend testing**<br>- API testing and data validation  <br>- Collaborated with developers to improve quality<br>- Assisted in identifying bugs and regression issues<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=123porAlan&show_icons=true&theme=default)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123porAlan&layout=compact)<br><br>---<br><br>## 🌐 Let's Connect<br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)<br>[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)<br><br>---<br><br>⭐️ *Focused on quality, automation, and continuous improvement.*<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alanskull09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alanrobles___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanskull09@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alanskull09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alanskull09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alanskull09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alanskull09&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">🧪 Alan López</h3>
+<p align="center"><sub>QA Engineer · Test Automation · Software Quality Advocate</sub></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alanskull09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<sub>
+Computer Science student at UNAM, close to graduating.  
+Focused on software testing, automation, and building confidence in products through quality.
+</sub>
+</p>
 
-## GitHub stats
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alanskull09&theme=dracula)](https://git.io/streak-stats)
+### 🧠 About Me
+
+<sub>
+I’m a QA-focused engineer with a strong interest in test automation and quality-driven development.  
+I enjoy breaking systems on purpose, automating checks, and working closely with developers to deliver reliable software.
+</sub>
+
+> <sub><i>"Testing is not about finding bugs — it's about building confidence."</i></sub>
+
+---
+
+### 🎯 QA Focus
+
+<table>
+<tr>
+<td><sub>✔️ Test case design & execution</sub></td>
+<td><sub>✔️ Automated regression testing</sub></td>
+</tr>
+<tr>
+<td><sub>✔️ Bug reporting & analysis</sub></td>
+<td><sub>✔️ CI/CD test integration</sub></td>
+</tr>
+<tr>
+<td><sub>✔️ Cross-browser testing</sub></td>
+<td><sub>✔️ Quality-driven mindset</sub></td>
+</tr>
+</table>
+
+---
+
+### 🧪 Automation & Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,appium,python,javascript,sql" />
+</p>
+
+<p align="center">
+<sub>
+Web · API · System-level testing
+</sub>
+</p>
+
+---
+
+### ⚙️ Tools & Environments
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,github,jira" />
+</p>
+
+---
+
+### 💼 Experience
+
+**IT Intern – Office Depot**
+
+<sub>
+• Automated and validated internal systems  
+• Frontend & backend testing support  
+• API testing and data validation  
+• Collaboration with developers to improve quality  
+• Regression and bug analysis  
+</sub>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123porAlan&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123porAlan&layout=compact" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+<sub>Focused on quality, automation, and continuous improvement.</sub>
+</p>
+
