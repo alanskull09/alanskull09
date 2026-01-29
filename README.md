@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="160" alt="programmer cartoon"/>
+  <img src="URL_DE_IMAGEN_RICK_PROGRAMANDO" width="180" alt="Rick Sanchez programming"/>
 </p>
 
 <h2 align="center">🧪 Alan López</h2>
@@ -14,7 +14,7 @@
 I’m a Computer Science student at UNAM, close to graduating, with a strong focus on  
 <strong>software testing, test automation, and quality assurance</strong>.
 
-I enjoy breaking systems on purpose, automating quality checks, and helping teams ship
+I enjoy breaking systems on purpose, automating quality checks, and helping teams ship  
 <strong>reliable, maintainable, and well-tested software</strong>.
 
 ---
