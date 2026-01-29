@@ -1,17 +1,27 @@
 <p align="center">
-  <img src="URL_DE_IMAGEN_RICK_PROGRAMANDO" width="180" alt="Rick Sanchez programming"/>
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="220" alt="Rick and Morty coding"/>
 </p>
 
 <h2 align="center">🧪 Alan López</h2>
+
 <p align="center">
-<strong>QA Engineer · Test Automation · Software Quality Advocate</strong>
+  <strong>QA Engineer · Test Automation · Software Quality Advocate</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/123porAlan">
+    <img src="https://img.shields.io/badge/GitHub-123porAlan-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I’m a Computer Science student at UNAM, close to graduating, with a strong focus on  
+I’m a **Computer Science student at UNAM**, close to graduating, with a strong focus on  
 <strong>software testing, test automation, and quality assurance</strong>.
 
 I enjoy breaking systems on purpose, automating quality checks, and helping teams ship  
@@ -21,12 +31,12 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 ### 🎯 QA Mindset
 
-- QA-oriented mindset with a strong automation focus  
-- Test automation for web applications, APIs, and systems  
-- Passionate about software quality and reliability  
-- Experience collaborating closely with developers and product teams  
-- Comfortable working in Linux environments  
-- Exploring Cloud, CI/CD, and DevOps applied to QA  
+- 🧠 QA-oriented mindset with a strong automation focus  
+- 🤖 Test automation for web applications, APIs, and systems  
+- 🔍 Passionate about software quality and reliability  
+- 🤝 Experience collaborating closely with developers and product teams  
+- 🐧 Comfortable working in Linux environments  
+- ☁️ Exploring Cloud, CI/CD, and DevOps applied to QA  
 
 > *“Testing is not about finding bugs — it’s about building confidence.”*
 
@@ -45,27 +55,43 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 ### 🧰 Testing & Automation Stack
 
-<strong>Automation Frameworks</strong>  
-Selenium · Cypress · Appium  
+#### 🚀 Automation Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress"/>
+  <img src="https://img.shields.io/badge/Appium-472D5B?style=for-the-badge&logo=appium"/>
+</p>
 
-<strong>Languages for Testing</strong>  
-Python · JavaScript · SQL  
+#### 💻 Languages for Testing
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
 ### ⚙️ Tools & Environments
 
-<strong>CI/CD & DevOps</strong>  
-GitHub Actions · Docker · Kubernetes  
+#### 🔄 CI/CD & DevOps
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-<strong>Systems & Collaboration</strong>  
-Linux · Git · Jira  
+#### 🛠 Systems & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
 ---
 
 ### 💼 Experience
 
-<strong>IT Intern – Office Depot</strong>
+#### 🏢 IT Intern – Office Depot
 
 - Automated and validated internal systems  
 - Supported frontend and backend testing efforts  
@@ -85,5 +111,5 @@ Linux · Git · Jira
 ---
 
 <p align="center">
-<strong>Focused on quality, automation, and continuous improvement.</strong>
+  <strong>Focused on quality, automation, and continuous improvement.</strong>
 </p>
