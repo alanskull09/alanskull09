@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/123porAlan">
-    <img src="https://img.shields.io/badge/GitHub-123porAlan-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/alanskull09">
+    <img src="https://img.shields.io/badge/GitHub-alanskull09-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
@@ -102,6 +102,17 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 ---
 
 ### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanskull09&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanskull09&layout=compact" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>Focused on quality, automation, and continuous improvement.</strong>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=123porAlan&show_icons=true&theme=default" height="160"/>
