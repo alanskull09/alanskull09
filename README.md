@@ -95,11 +95,16 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 ### 💼 Experience
 
-#### 🏢 IT Intern – Office Depot
+#### 🏢 Developer Junior – Office Depot
 
-- Automated and validated internal systems  
-- Supported frontend and backend testing efforts  
-- API testing and data validation  
-- Collaborated with developers to improve software quality  
-- Assisted in identifying bugs and regression issues  
+Worked on internal business systems, focusing mainly on backend services and frontend interfaces.  
+Supported the development, testing, and improvement of both sides of the application to ensure stability and performance.
+
+- Automated internal processes and system validations  
+- Contributed to backend services, APIs, and data handling  
+- Improved frontend features and user flows  
+- Performed API testing and database validation  
+- Collaborated closely with developers to detect bugs and prevent regressions  
+- Helped enhance overall software quality and reliability
+
 
