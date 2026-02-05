@@ -9,7 +9,7 @@
 <h2 align="center">🧪 Alan López</h2>
 
 <p align="center">
-  <strong>QA Engineer · Test Automation · Software Quality Advocate</strong>
+  <strong>QA Engineer · Test Automation · Data Analyst · Software Quality Advocate</strong>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 ### 💫 About Me
 
 I’m a **Computer Science student at UNAM**, close to graduating, with a strong focus on  
-<strong>software testing, test automation, and quality assurance</strong>.
+<strong>software testing, automation, backend/frontend development, and data analysis</strong>.
 
-I enjoy breaking systems on purpose, automating quality checks, and helping teams ship  
+I enjoy breaking systems on purpose, automating quality checks, analyzing data to find patterns, and helping teams ship  
 <strong>reliable, maintainable, and well-tested software</strong>.
 
 ---
@@ -37,6 +37,7 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 - 🧠 QA-oriented mindset with a strong automation focus  
 - 🤖 Test automation for web applications, APIs, and systems  
+- 📊 Data-driven decisions using metrics and analysis  
 - 🔍 Passionate about software quality and reliability  
 - 🤝 Experience collaborating closely with developers and product teams  
 - 🐧 Comfortable working in Linux environments  
@@ -61,16 +62,19 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 #### 🚀 Automation Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Appium-472D5B?style=for-the-badge&logo=appium"/>
 </p>
 
-#### 💻 Languages for Testing
+#### 💻 Languages for Testing & Data
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -97,13 +101,15 @@ I enjoy breaking systems on purpose, automating quality checks, and helping team
 
 #### 🏢 Developer Junior – Office Depot
 
-Worked on internal business systems, focusing mainly on backend services and frontend interfaces.  
-Supported the development, testing, and improvement of both sides of the application to ensure stability and performance.
+Worked on internal business systems with a specialization in **backend services, frontend interfaces, QA automation, and data analysis**.  
+Supported development, testing, and performance improvements while also using data to detect issues and optimize processes.
 
 - Automated internal processes and system validations  
-- Contributed to backend services, APIs, and data handling  
+- Contributed to backend services, APIs, and database logic  
 - Improved frontend features and user flows  
-- Performed API testing and database validation  
+- Performed API testing and data validation  
+- Analyzed system metrics and datasets to identify trends and issues  
+- Built reports and dashboards to support decision-making  
 - Collaborated closely with developers to detect bugs and prevent regressions  
 - Helped enhance overall software quality and reliability
 
